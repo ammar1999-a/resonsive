@@ -53,6 +53,36 @@ body {
     }
     
 }
+@media (min-width: 768px) { 
+     .container { 
+    width: 780ox 
+    
+    }
+    .header .plan { 
+        float: none; 
+        
+        margin: 10px auto ;
+}
+
+
+
+@media (min-width:992px) { 
+     .container { 
+    width: 1000pxx 
+    
+    }
+}
+
+
+
+
+@media (min-width: 1200px) { 
+     .container { 
+    width: 1200px 
+    
+    }
+}
+
 
 
 
